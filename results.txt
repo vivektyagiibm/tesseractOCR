@@ -1,0 +1,800 @@
+Receipt: dataset/1000-receipt.jpg
+
+Restaurant Name: GAEEN FIELD
+Total: 6.5
+Receipt: dataset/1001-receipt.jpg
+
+Restaurant Name: UNK
+Total: UNK
+Receipt: dataset/1002-receipt.jpg
+
+Restaurant Name: o Crsh Fz
+Total: 78
+Receipt: dataset/1003-receipt.jpg
+
+Restaurant Name: UNK
+Total: UNK
+Receipt: dataset/1004-receipt.jpg
+
+Restaurant Name: SOLDEN BowL TERI
+Total: O3
+Receipt: dataset/1005-receipt.jpg
+
+Restaurant Name: Rye 10yr (2 620.00) 40,00
+Total: Total
+Receipt: dataset/1006-receipt.jpg
+
+Restaurant Name: Senmont oy
+Total: UNK
+Receipt: dataset/1007-receipt.jpg
+
+Restaurant Name: Katana Sushi
+Total: $143.71
+Receipt: dataset/1008-receipt.jpg
+
+Restaurant Name: Dona Mercedes Restaurant
+Total: $24.47
+Receipt: dataset/1009-receipt.jpg
+
+Restaurant Name: Ayl Past
+Total: Total
+Receipt: dataset/1010-receipt.jpg
+
+Restaurant Name: Friendly Red' s
+Total: Total
+Receipt: dataset/1011-receipt.jpg
+
+Restaurant Name: Pulled Pork Sand $8.50
+Total: $64.43
+Receipt: dataset/1012-receipt.jpg
+
+Restaurant Name: HP Pho Ga
+Total: «268
+Receipt: dataset/1013-receipt.jpg
+
+Restaurant Name: ALBETOS
+Total: TOTAL
+Receipt: dataset/1014-receipt.jpg
+
+Restaurant Name: § ?‘Iﬂfl war Blvd
+Total: UNK
+Receipt: dataset/1015-receipt.jpg
+
+Restaurant Name: 7285 Roswell
+Total: Total
+Receipt: dataset/1016-receipt.jpg
+
+Restaurant Name: Chef Wang
+Total: $35.52
+Receipt: dataset/1017-receipt.jpg
+
+Restaurant Name: 4327 N. Expressway 77/83
+Total: Total
+Receipt: dataset/1018-receipt.jpg
+
+Restaurant Name: o 12:49 PM
+Total: UNK
+Receipt: dataset/1019-receipt.jpg
+
+Restaurant Name: o Pieri 4 Tavem
+Total: UNK
+Receipt: dataset/1020-receipt.jpg
+
+Restaurant Name: Deocan Spice
+Total: TOTAL:
+Receipt: dataset/1021-receipt.jpg
+
+Restaurant Name: HAWWI ETHIOPIAN RESTAU
+Total: UNK
+Receipt: dataset/1022-receipt.jpg
+
+Restaurant Name: Sl B\ um
+Total: UNK
+Receipt: dataset/1023-receipt.jpg
+
+Restaurant Name: Thai Gusto Restaurant
+Total: Total
+Receipt: dataset/1024-receipt.jpg
+
+Restaurant Name: New Asia Bufrfet
+Total: 33.92
+Receipt: dataset/1025-receipt.jpg
+
+Restaurant Name: McDonald’: e it a T HUD
+Total: et
+Receipt: dataset/1026-receipt.jpg
+
+Restaurant Name: UNK
+Total: UNK
+Receipt: dataset/1027-receipt.jpg
+
+Restaurant Name: AU, HMAWA
+Total: .ﬂ
+Receipt: dataset/1028-receipt.jpg
+
+Restaurant Name: R barad 0 bl i
+Total: UNK
+Receipt: dataset/1029-receipt.jpg
+
+Restaurant Name: RINCON MEXICANO
+Total: Total
+Receipt: dataset/1030-receipt.jpg
+
+Restaurant Name: vivited Sertane
+Total: UNK
+Receipt: dataset/1031-receipt.jpg
+
+Restaurant Name: FRBRRERRR R R
+Total: Dtes
+Receipt: dataset/1032-receipt.jpg
+
+Restaurant Name: WINGS & THINGS
+Total: UNK
+Receipt: dataset/1033-receipt.jpg
+
+Restaurant Name: 8030 Renaissance Parkway
+Total: Total
+Receipt: dataset/1034-receipt.jpg
+
+Restaurant Name: lacSfource
+Total: UNK
+Receipt: dataset/1035-receipt.jpg
+
+Restaurant Name: E Argonalit Diner2000  We Deliver ¥
+Total: $24.25
+Receipt: dataset/1036-receipt.jpg
+
+Restaurant Name: PAPI‘AI)LAUX
+Total: 5276
+Receipt: dataset/1037-receipt.jpg
+
+Restaurant Name: Storg #1291
+Total: 164.69
+Receipt: dataset/1038-receipt.jpg
+
+Restaurant Name: Micros Demo System
+Total: UNK
+Receipt: dataset/1039-receipt.jpg
+
+Restaurant Name: CARL'S JR 1100375
+Total: Total
+Receipt: dataset/1040-receipt.jpg
+
+Restaurant Name: JRHGE THAL
+Total: $28.04
+Receipt: dataset/1041-receipt.jpg
+
+Restaurant Name: lacSfource
+Total: UNK
+Receipt: dataset/1042-receipt.jpg
+
+Restaurant Name: _yzRvIEN; W 07022
+Total: UNK
+Receipt: dataset/1043-receipt.jpg
+
+Restaurant Name: BK sou. FooD &
+Total: 26.87
+Receipt: dataset/1044-receipt.jpg
+
+Restaurant Name: UNK
+Total: UNK
+Receipt: dataset/1045-receipt.jpg
+
+Restaurant Name: UM's RESTAURANY
+Total: 22.03
+Receipt: dataset/1046-receipt.jpg
+
+Restaurant Name: Araxi Burger Aventura
+Total: UNK
+Receipt: dataset/1047-receipt.jpg
+
+Restaurant Name: UNK
+Total: UNK
+Receipt: dataset/1048-receipt.jpg
+
+Restaurant Name: EXCELLENCE SERVI
+Total: 91.45
+Receipt: dataset/1049-receipt.jpg
+
+Restaurant Name: KICKIN KAJUN KAPOLET
+Total: $38.75
+Receipt: dataset/1050-receipt.jpg
+
+Restaurant Name: HOLLYWOOD CAFE &
+Total: 35,96
+Receipt: dataset/1051-receipt.jpg
+
+Restaurant Name: GENERAL POOR’ S
+Total: UNK
+Receipt: dataset/1052-receipt.jpg
+
+Restaurant Name: 255-41 Jericho Turmotke
+Total: UNK
+Receipt: dataset/1053-receipt.jpg
+
+Restaurant Name: Primo
+Total: UNK
+Receipt: dataset/1054-receipt.jpg
+
+Restaurant Name: BIG JO'S
+Total: $56.50
+Receipt: dataset/1055-receipt.jpg
+
+Restaurant Name: WINGS & THINGS
+Total: UNK
+Receipt: dataset/1056-receipt.jpg
+
+Restaurant Name: ZOCA RESTAURANT
+Total: Sub-total
+Receipt: dataset/1057-receipt.jpg
+
+Restaurant Name: CAFE PARISIEN LARCHMONT LLC
+Total: $9.58
+Receipt: dataset/1058-receipt.jpg
+
+Restaurant Name: e Hopg
+Total: UNK
+Receipt: dataset/1059-receipt.jpg
+
+Restaurant Name: LANDFALL RESTAURANT
+Total: -
+Receipt: dataset/1060-receipt.jpg
+
+Restaurant Name: 1660 India Street
+Total: 83.50
+Receipt: dataset/1061-receipt.jpg
+
+Restaurant Name: hili's Grill & Bar
+Total: Total
+Receipt: dataset/1062-receipt.jpg
+
+Restaurant Name: PREM RED e
+Total: UNK
+Receipt: dataset/1063-receipt.jpg
+
+Restaurant Name: Frimo g
+Total: UNK
+Receipt: dataset/1064-receipt.jpg
+
+Restaurant Name: | 8:04 PH
+Total: UNK
+Receipt: dataset/1065-receipt.jpg
+
+Restaurant Name: Taco Maria
+Total: UNK
+Receipt: dataset/1066-receipt.jpg
+
+Restaurant Name: RISTORANTE
+Total: UNK
+Receipt: dataset/1067-receipt.jpg
+
+Restaurant Name: finjappar WNETtInG0 Artesia
+Total: Total:
+Receipt: dataset/1068-receipt.jpg
+
+Restaurant Name: Cafe Eugen
+Total: UNK
+Receipt: dataset/1069-receipt.jpg
+
+Restaurant Name: (734)236-40%3
+Total: Total
+Receipt: dataset/1070-receipt.jpg
+
+Restaurant Name: . M's Hot Wings & Things IN°
+Total: TOTAL:
+Receipt: dataset/1071-receipt.jpg
+
+Restaurant Name: 190 Jericho Teke
+Total: Due:
+Receipt: dataset/1072-receipt.jpg
+
+Restaurant Name: OHANA HAWATTAN BB
+Total: UNK
+Receipt: dataset/1073-receipt.jpg
+
+Restaurant Name: Sy I69-0 v 626-56-580
+Total: UNK
+Receipt: dataset/1074-receipt.jpg
+
+Restaurant Name: Lin Buffet
+Total: UNK
+Receipt: dataset/1075-receipt.jpg
+
+Restaurant Name: SmokeBOXBBD
+Total: :
+Receipt: dataset/1076-receipt.jpg
+
+Restaurant Name: UNK
+Total: UNK
+Receipt: dataset/1077-receipt.jpg
+
+Restaurant Name: NAANCHING
+Total: $69.79
+Receipt: dataset/1078-receipt.jpg
+
+Restaurant Name: 0llow us on Instagri
+Total: Tex:
+Receipt: dataset/1079-receipt.jpg
+
+Restaurant Name: ORBRe
+Total: 235.19
+Receipt: dataset/1080-receipt.jpg
+
+Restaurant Name: Newark Buffet
+Total: 2.2
+Receipt: dataset/1081-receipt.jpg
+
+Restaurant Name: BRASAS RESTAURANT
+Total: $9.97
+Receipt: dataset/1082-receipt.jpg
+
+Restaurant Name: SURATI FARSAN MART
+Total: UNK
+Receipt: dataset/1083-receipt.jpg
+
+Restaurant Name: RESTAURANTS, INC
+Total: UNK
+Receipt: dataset/1084-receipt.jpg
+
+Restaurant Name: Trattoria Sagor1to
+Total: $117.75
+Receipt: dataset/1085-receipt.jpg
+
+Restaurant Name: Pita Pita - Lobard
+Total: 228.92
+Receipt: dataset/1086-receipt.jpg
+
+Restaurant Name: Table #2
+Total: 51
+Receipt: dataset/1087-receipt.jpg
+
+Restaurant Name: UNK
+Total: UNK
+Receipt: dataset/1088-receipt.jpg
+
+Restaurant Name: \et Total: $11.97
+Total: $13.03
+Receipt: dataset/1089-receipt.jpg
+
+Restaurant Name: 12/07/2016
+Total: 142.93
+Receipt: dataset/1090-receipt.jpg
+
+Restaurant Name: 1 Little Hasburger .19
+Total: Total
+Receipt: dataset/1091-receipt.jpg
+
+Restaurant Name: 930 WAYNE AVE. #10C
+Total: UNK
+Receipt: dataset/1092-receipt.jpg
+
+Restaurant Name: Dine_In
+Total: 43.30
+Receipt: dataset/1093-receipt.jpg
+
+Restaurant Name: ROPEYE™S
+Total: UNK
+Receipt: dataset/1094-receipt.jpg
+
+Restaurant Name: = POkeatery cv
+Total: UNK
+Receipt: dataset/1095-receipt.jpg
+
+Restaurant Name: Golden Coin_
+Total: UNK
+Receipt: dataset/1096-receipt.jpg
+
+Restaurant Name: 223 N. Citrus Ave
+Total: .98
+Receipt: dataset/1097-receipt.jpg
+
+Restaurant Name: Drive Thru
+Total: UNK
+Receipt: dataset/1098-receipt.jpg
+
+Restaurant Name: - zan Grill
+Total: .89
+Receipt: dataset/1099-receipt.jpg
+
+Restaurant Name: Mexican Restaurant & Bar
+Total: 64.52
+Receipt: dataset/1100-receipt.jpg
+
+Restaurant Name: 16725 Stony Plain Rd
+Total: Total
+Receipt: dataset/1101-receipt.jpg
+
+Restaurant Name: KAZ RAMEN
+Total: $14.06
+Receipt: dataset/1102-receipt.jpg
+
+Restaurant Name: OM INDIAN FOOD
+Total: $16.24
+Receipt: dataset/1103-receipt.jpg
+
+Restaurant Name: crisfield seafood
+Total: 74
+Receipt: dataset/1104-receipt.jpg
+
+Restaurant Name: Do ouan Yexican festaurat
+Total: UNK
+Receipt: dataset/1105-receipt.jpg
+
+Restaurant Name: PLACE
+Total: Total
+Receipt: dataset/1106-receipt.jpg
+
+Restaurant Name: Lan Sheng
+Total: UNK
+Receipt: dataset/1107-receipt.jpg
+
+Restaurant Name: MIKUNI JaAPANESE
+Total: Due
+Receipt: dataset/1108-receipt.jpg
+
+Restaurant Name: 0 Mongo 230
+Total: Total
+Receipt: dataset/1109-receipt.jpg
+
+Restaurant Name: Fopcom Chicken
+Total: $27.62
+Receipt: dataset/1110-receipt.jpg
+
+Restaurant Name: Chelokababi
+Total: Total
+Receipt: dataset/1111-receipt.jpg
+
+Restaurant Name: Place Your
+Total: UNK
+Receipt: dataset/1112-receipt.jpg
+
+Restaurant Name: COLUMBUS RESTAURANT
+Total: 4;
+Receipt: dataset/1113-receipt.jpg
+
+Restaurant Name: |, Golden Panda Buffet
+Total: 29.96
+Receipt: dataset/1114-receipt.jpg
+
+Restaurant Name: lacSfource
+Total: UNK
+Receipt: dataset/1115-receipt.jpg
+
+Restaurant Name: Rosebud on Rush
+Total: TOTAL
+Receipt: dataset/1116-receipt.jpg
+
+Restaurant Name: Villaggio Grille
+Total: 34.12
+Receipt: dataset/1117-receipt.jpg
+
+Restaurant Name: JAPANESE STE AK
+Total: 78
+Receipt: dataset/1118-receipt.jpg
+
+Restaurant Name: Total Itess 3
+Total: Total
+Receipt: dataset/1119-receipt.jpg
+
+Restaurant Name: PURCHISE s
+Total: UNK
+Receipt: dataset/1120-receipt.jpg
+
+Restaurant Name: RED & Il()l 11
+Total: UNK
+Receipt: dataset/1121-receipt.jpg
+
+Restaurant Name: of Portugal Restaurant
+Total: UNK
+Receipt: dataset/1122-receipt.jpg
+
+Restaurant Name: E] feson exican Restaurant
+Total: 4
+Receipt: dataset/1123-receipt.jpg
+
+Restaurant Name: U Hatrr1son Ave
+Total: 6
+Receipt: dataset/1124-receipt.jpg
+
+Restaurant Name: Firefly American Bistro
+Total: $63.64
+Receipt: dataset/1125-receipt.jpg
+
+Restaurant Name: CHATPATA RESTAURANT INC
+Total: $19.10
+Receipt: dataset/1126-receipt.jpg
+
+Restaurant Name: | FRENGH CAFE & WINE BAR
+Total: 39.18
+Receipt: dataset/1127-receipt.jpg
+
+Restaurant Name: PIZzA HUT
+Total: UNK
+Receipt: dataset/1128-receipt.jpg
+
+Restaurant Name: KNAVERAS
+Total: Total
+Receipt: dataset/1129-receipt.jpg
+
+Restaurant Name: HIRO JAPANESE RESTAURANT
+Total: $17.18
+Receipt: dataset/1130-receipt.jpg
+
+Restaurant Name: (310) 278-205(
+Total: :
+Receipt: dataset/1131-receipt.jpg
+
+Restaurant Name: URGE R
+Total: UNK
+Receipt: dataset/1132-receipt.jpg
+
+Restaurant Name: VIAEMILIA 9
+Total: Total
+Receipt: dataset/1133-receipt.jpg
+
+Restaurant Name: MOONSTAR REST AURANI
+Total: UNK
+Receipt: dataset/1134-receipt.jpg
+
+Restaurant Name: = Restaurant #C160014
+Total: UNK
+Receipt: dataset/1135-receipt.jpg
+
+Restaurant Name: , E- BALDIn e
+Total: TOTAL
+Receipt: dataset/1136-receipt.jpg
+
+Restaurant Name: The Shawarma Factory
+Total: $13.13
+Receipt: dataset/1137-receipt.jpg
+
+Restaurant Name: Naui Tenxah
+Total: UNK
+Receipt: dataset/1138-receipt.jpg
+
+Restaurant Name: ORDER: 9
+Total: Total
+Receipt: dataset/1139-receipt.jpg
+
+Restaurant Name: Bill No. 00027  Bill Date 06.07.2027
+Total: UNK
+Receipt: dataset/1140-receipt.jpg
+
+Restaurant Name: 1450 S DE C
+Total: .47
+Receipt: dataset/1141-receipt.jpg
+
+Restaurant Name: M2 YAUATCHA
+Total: .62
+Receipt: dataset/1142-receipt.jpg
+
+Restaurant Name: plue Bear Tavern
+Total: UNK
+Receipt: dataset/1143-receipt.jpg
+
+Restaurant Name: Arthurs
+Total: UNK
+Receipt: dataset/1144-receipt.jpg
+
+Restaurant Name: CHLOE81
+Total: UNK
+Receipt: dataset/1145-receipt.jpg
+
+Restaurant Name: — MIGUELS MEXICAN =
+Total: 65.14
+Receipt: dataset/1146-receipt.jpg
+
+Restaurant Name: Rihanna's Caribbean Restaurant
+Total: Total
+Receipt: dataset/1147-receipt.jpg
+
+Restaurant Name: NEW DELHI
+Total: TOTAL
+Receipt: dataset/1148-receipt.jpg
+
+Restaurant Name: Sonlc Auerfca’s Dr e I
+Total: UNK
+Receipt: dataset/1149-receipt.jpg
+
+Restaurant Name: pine 1In
+Total: 5.29
+Receipt: dataset/1150-receipt.jpg
+
+Restaurant Name: 25 W00DFRD ks 7
+Total: 74.49
+Receipt: dataset/1151-receipt.jpg
+
+Restaurant Name: Collector’s Choice Restaurand
+Total: Total
+Receipt: dataset/1152-receipt.jpg
+
+Restaurant Name: KALOOKI'S
+Total: UNK
+Receipt: dataset/1153-receipt.jpg
+
+Restaurant Name: Gordon Rassay Steak
+Total: 230,00
+Receipt: dataset/1154-receipt.jpg
+
+Restaurant Name: Yia Har Restayrent
+Total: 66.89
+Receipt: dataset/1155-receipt.jpg
+
+Restaurant Name: oo lerruui e, /om0
+Total: UNK
+Receipt: dataset/1156-receipt.jpg
+
+Restaurant Name: TKEA FOOD
+Total: UNK
+Receipt: dataset/1157-receipt.jpg
+
+Restaurant Name: Thank You
+Total: UNK
+Receipt: dataset/1158-receipt.jpg
+
+Restaurant Name: MITASU JAPANESE RESTAURANT SDN BHD
+Total: .45
+Receipt: dataset/1159-receipt.jpg
+
+Restaurant Name: Drive Thru Total
+Total: Total
+Receipt: dataset/1160-receipt.jpg
+
+Restaurant Name: ngelo's Pizza Restaurant
+Total: TOTAL:
+Receipt: dataset/1161-receipt.jpg
+
+Restaurant Name: Tsub To A 1REERE 50 ¢
+Total: Charge:
+Receipt: dataset/1162-receipt.jpg
+
+Restaurant Name: JL";Z?B Kettner Blvd
+Total: 24.12
+Receipt: dataset/1163-receipt.jpg
+
+Restaurant Name: BEN’S BAYSIDE
+Total: :
+Receipt: dataset/1164-receipt.jpg
+
+Restaurant Name: ton, NY
+Total: Total
+Receipt: dataset/1165-receipt.jpg
+
+Restaurant Name: Buritto
+Total: UNK
+Receipt: dataset/1166-receipt.jpg
+
+Restaurant Name: PAPPADEAUX
+Total: .16
+Receipt: dataset/1167-receipt.jpg
+
+Restaurant Name: Fountansoss
+Total: UNK
+Receipt: dataset/1168-receipt.jpg
+
+Restaurant Name: CARL’S JR
+Total: Total
+Receipt: dataset/1169-receipt.jpg
+
+Restaurant Name: Pelmonico’s
+Total: UNK
+Receipt: dataset/1170-receipt.jpg
+
+Restaurant Name: Buca di Beppo
+Total: UNK
+Receipt: dataset/1171-receipt.jpg
+
+Restaurant Name: DATE AND TINE  PAX TABLE
+Total: UNK
+Receipt: dataset/1172-receipt.jpg
+
+Restaurant Name: \\ Station: 10
+Total: UNK
+Receipt: dataset/1173-receipt.jpg
+
+Restaurant Name: rable Q#1
+Total: Sl
+Receipt: dataset/1174-receipt.jpg
+
+Restaurant Name: IPanema
+Total: UNK
+Receipt: dataset/1175-receipt.jpg
+
+Restaurant Name: Bar Louie Huntsville
+Total: 756
+Receipt: dataset/1176-receipt.jpg
+
+Restaurant Name: HEDLEYS
+Total: UNK
+Receipt: dataset/1177-receipt.jpg
+
+Restaurant Name: £1 Charro Cafe Ventana
+Total: 410
+Receipt: dataset/1178-receipt.jpg
+
+Restaurant Name: Gourdough's Pu
+Total: el
+Receipt: dataset/1179-receipt.jpg
+
+Restaurant Name: Server:
+Total: $54.20
+Receipt: dataset/1180-receipt.jpg
+
+Restaurant Name: o semone
+Total: na
+Receipt: dataset/1181-receipt.jpg
+
+Restaurant Name: DEL FRISCO'S #8620
+Total: UNK
+Receipt: dataset/1182-receipt.jpg
+
+Restaurant Name: Finnegan's Way Check 822819
+Total: 43,60
+Receipt: dataset/1183-receipt.jpg
+
+Restaurant Name: 2 HjéﬁLlﬁcggg 0.
+Total: 10.00
+Receipt: dataset/1184-receipt.jpg
+
+Restaurant Name: R R RRFRRERE R R R R R R R kR kR kR Rk
+Total: .35
+Receipt: dataset/1185-receipt.jpg
+
+Restaurant Name: JT's Diner
+Total: Total
+Receipt: dataset/1186-receipt.jpg
+
+Restaurant Name: rrimo
+Total: UNK
+Receipt: dataset/1187-receipt.jpg
+
+Restaurant Name: Spiral Diner & Bakery
+Total: %
+Receipt: dataset/1188-receipt.jpg
+
+Restaurant Name: New China
+Total: 2696
+Receipt: dataset/1189-receipt.jpg
+
+Restaurant Name: MIGUELS ME;
+Total: UNK
+Receipt: dataset/1190-receipt.jpg
+
+Restaurant Name: Bombay Grill House
+Total: Total
+Receipt: dataset/1191-receipt.jpg
+
+Restaurant Name: MOD Pizza
+Total: UNK
+Receipt: dataset/1192-receipt.jpg
+
+Restaurant Name: UNK
+Total: UNK
+Receipt: dataset/1193-receipt.jpg
+
+Restaurant Name: Tndilge. . Teke hone a wole ois!
+Total: UNK
+Receipt: dataset/1194-receipt.jpg
+
+Restaurant Name: afonie
+Total: UNK
+Receipt: dataset/1195-receipt.jpg
+
+Restaurant Name: Amici Conyers
+Total: %
+Receipt: dataset/1196-receipt.jpg
+
+Restaurant Name: RN [IERES
+Total: 130
+Receipt: dataset/1197-receipt.jpg
+
+Restaurant Name: BAR RISTORANLE
+Total: UNK
+Receipt: dataset/1198-receipt.jpg
+
+Restaurant Name: 103/ ias9 6T
+Total: .7
+Receipt: dataset/1199-receipt.jpg
+
+Restaurant Name: 065 st St 81
+Total: Due
