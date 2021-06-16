@@ -47,7 +47,7 @@ References
 [4]Liwicki, M., Graves, A., Fernàndez, S., Bunke, H. and Schmidhuber, J., 2007. A novel approach to on-line handwriting recognition based on bidirectional long short-term memory networks. In Proceedings of the 9th International Conference on Document Analysis and Recognition, ICDAR 2007.
 
 
-vtyagi@Viveks-MacBook-Pro OCR % python3 runOCR2.py
+vtyagi@Viveks-MacBook-Pro OCR % python3 runOCR.py
 
 
 dataset/1000-receipt.jpg
