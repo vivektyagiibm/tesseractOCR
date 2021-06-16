@@ -1,0 +1,2 @@
+# tesseractOCR
+tesseract based OCR
