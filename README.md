@@ -48,6 +48,8 @@ References
 
 
 vtyagi@Viveks-MacBook-Pro OCR % python3 runOCR2.py
+
+
 dataset/1000-receipt.jpg
 Number of lines:31
 Restaurant Name: GAEEN FIELD
